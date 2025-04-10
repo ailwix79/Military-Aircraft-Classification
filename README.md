@@ -1,2 +1,2 @@
 # Military-Aircraft-Classification
-Military Aircraft Classification followed by targeted FGSM attack
+Training of a model for military aircraft classification followed by a targeted FGSM attack
